@@ -1,0 +1,7 @@
+py37
+hit_dl/build
+hit_dl/dist
+hit_dl/hit-dl.spec
+hit_dl/hooks
+hit_dl/__pycache__
+hit_dl/spiders/__pycache__
