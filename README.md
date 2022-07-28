@@ -71,7 +71,9 @@ python -m pip install -r requirements.txt
 
 Download it from [here](https://github.com/ItaiShek/hit-dl/releases/download/v1.0.0/hit-dl.exe).
 
-Add the file to any folder except "C:\Windows\System32", and add it to [PATH](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)).
+You can use the <a href="https://raw.githubusercontent.com/ItaiShek/hit-dl/main/hit_dl/run.bat" download>run script</a> instead of using the software from the terminal, just make sure it's in the same folder as "hit-dl.exe".
+
+Add the file to any folder except "C:\Windows\System32", and add it to [PATH](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v=office.14)), in order to run the software from any folder.
 
 </details>
 
